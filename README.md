@@ -33,7 +33,7 @@ Advanced Excel · star-schema modelling · Git
 
 ### Building on it
 - Preparing for the Microsoft **PL-300 (Power BI Data Analyst)** certification
--Currently learning **Python (pandas & NumPy)** to expand my analytics toolkit.
+- Extending into Python (pandas) — porting my Olist SQL pipeline as olist-pipeline-python..
 
 Research experience: Institute of Economic Growth — built a state-level dataset
 from 8 government publications. Open to analyst roles across research, business,
